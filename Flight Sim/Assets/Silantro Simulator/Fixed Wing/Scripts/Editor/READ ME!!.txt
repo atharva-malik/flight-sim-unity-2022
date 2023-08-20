@@ -1,1 +1,0 @@
-The airfoil design system as been moved, so please remove the Aerodynamics folder above.
