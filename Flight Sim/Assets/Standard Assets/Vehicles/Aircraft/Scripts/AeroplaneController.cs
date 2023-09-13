@@ -156,7 +156,7 @@ namespace UnityStandardAssets.Vehicles.Aeroplane
         {
             // override throttle if immobilized
             if (m_Immobilized)
-            {
+            { 
                 ThrottleInput = -0.5f;
             }
 
